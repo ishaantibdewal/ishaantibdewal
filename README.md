@@ -23,15 +23,4 @@ I have experience working on **solo, pair, and team-based projects**, and I valu
 
 ---
 
-## Collaboration & Credits
-
-Some repositories here are **pair or group projects**.  
-Each project clearly documents:
-- collaborators  
-- my specific contributions  
-- links to original repositories when applicable  
-
----
-
 ⭐ Check out my pinned repositories below.
-
