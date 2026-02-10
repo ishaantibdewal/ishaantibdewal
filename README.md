@@ -33,12 +33,5 @@ Each project clearly documents:
 
 ---
 
-## Connect
-
-- **LinkedIn:** add-link-here  
-- **Email:** add-email-here  
-
----
-
 ⭐ Check out my pinned repositories below.
 
