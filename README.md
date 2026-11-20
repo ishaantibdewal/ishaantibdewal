@@ -15,6 +15,7 @@ Data Science and Applied Mathematics student at **UC San Diego** (minor in Econo
 | [Poker Playing Styles & Tilt with HMMs](https://github.com/ishaantibdewal/hmm-poker) | Hidden Markov models that recover playing styles from betting actions and test for tilt after big losses | NumPy, hmmlearn |
 | [ESG News Risk Forecaster](https://github.com/ishaantibdewal/esg-news-risk-forecaster) | Forecasts 21-day equity volatility from financial news, price features, FinBERT sentiment and ClimateBERT signals | scikit-learn, Hugging Face |
 | [Rate the Review](https://github.com/ishaantibdewal/Rate-The-Review) | Predicts recipe ratings from review text with TF-IDF and logistic regression | scikit-learn, pandas |
+| [This Is a Day in Your Life](https://ishaantibdewal.github.io/dsc106_final/) | Interactive scrollytelling story of how a 24-hour day changes with age, from 2024 American Time Use Survey data ([code](https://github.com/ishaantibdewal/dsc106_final)) | D3.js, pandas |
 
 ## Skills
 
